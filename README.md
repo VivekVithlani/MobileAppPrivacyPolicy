@@ -1,9 +1,9 @@
-# Mantra App Privacy Policy
+# Privacy Policy
 
 Privacy Policy
 Updated at 2023-01-03
 
-Mantra. ("I", "we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is
+("I", "we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is
 collected, used, and disclosed by Mantra.
 
 This Privacy Policy applies to our application named Mantra , and its associated subdomains (collectively, our "Service"). By
@@ -85,25 +85,19 @@ support needs)
 
 + To send periodic emails
 
-When do we use customer information from third
-parties?
+### When do we use customer information from third parties?
 
 We receive some information from the third parties when you contact us. For example, when you submit your email address to us to
 show interest in becoming our customer, we receive information from a third party that provides automated fraud detection services to
 us. We also occasionally collect information that is made publicly available on social media websites. You can control how much of
 your information social media websites make public by visiting these websites and changing your privacy settings.
 
-Do we share the information we collect with third
-parties?
+### Do we share the information we collect with third parties?
 
 We may share the information that we collect, both personal and non-personal, with third parties such as advertisers, contest
 sponsors, promotional and marketing partners, and others who provide our content or whose products or services we think may
 interest you. We may also share it with our current and future affiliated companies and business partners, and if we are involved in a
-merger, asset sale or other business reorganization, we may also share or transfer your personal and non-personal information to our
-
-successors-in-interest.
-
- 
+merger, asset sale or other business reorganization, we may also share or transfer your personal and non-personal information to our successors-in-interest.
 
 We may engage trusted third party service providers to perform functions and provide services to us, such as hosting and
 maintaining our servers and our service, database storage and management, e-mail management, storage marketing, credit card
@@ -122,14 +116,11 @@ as we, in our sole discretion, believe necessary or appropriate in order to resp
 protect our rights and interests or those of a third party, the safety of the public or any person, to prevent or stop any illegal, unethical,
 or legally actionable activity, or to otherwise comply with applicable court orders, laws, rules and regulations.
 
-Where and when is information collected from
-customers and end users?
+## Where and when is information collected from customers and end users?
 
-We will collect personal information that you submit to us. We may also receive personal information about you from third parties as
-described above.
+We will collect personal information that you submit to us. We may also receive personal information about you from third parties as described above.
 
-Could my information be transferred to other
-countries?
+## Could my information be transferred to other countries?
 
 We are incorporated in India. Information collected via our website, through direct interactions with you, or from use of our help
 services may be transferred from time to time to our offices or personnel, or to third parties, located throughout the world, and may be
@@ -137,8 +128,7 @@ viewed and hosted anywhere in the world, including countries that may not have l
 transfer of such data. To the fullest extent allowed by applicable law, by using any of the above, you voluntarily consent to the trans-
 border transfer and hosting of such information.
 
-Is the information collected through our service
-secure?
+## Is the information collected through our service secure?
 
 We take precautions to protect the security of your information. We have physical, electronic, and managerial procedures to help
 safeguard, prevent unauthorized access, maintain data security, and correctly use your information. However, neither people nor
@@ -147,7 +137,8 @@ to follow policies. Therefore, while we use reasonable efforts to protect your p
 security. If applicable law imposes any non-disclaimable duty to protect your personal information, you agree that intentional
 misconduct will be the standards used to measure our compliance with that duty.
 
-## Can I| update or correct my information?
+
+## Can I|update or correct my information?
 
 The rights you have to request updates or corrections to the information we collect depend on your relationship with us. Personnel
 may update or correct their information as detailed in our internal company employment policies. Customers have the right to request
@@ -165,6 +156,7 @@ or impossible for us to locate. Promptly after receiving your request, all perso
 other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as and to the extent
 reasonably and technically practicable. If you are an end user and wish to update, delete, or receive any information we have about
 you, you may do so by contacting the organization of which you are a customer.
+
 
 ## Sale of Business
 
@@ -216,6 +208,13 @@ Services to another website, our Privacy Policy is no longer in effect. Your bro
 those that have a link on our platform, is subject to that website's own rules and policies. Such third parties may use their own
 cookies or other methods to collect information about you.
 
+## Cookies
+
+We use "Cookies" to identity the areas of our website that you have visited. A Cookie is a small piece of data stored on your computer
+or mobile device by your web browser. We use Cookies to personalize the Content that you see on our website. Most web browsers
+can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our website
+correctly or at all. We never place Personally Identifiable Information in Cookies.
+
 ## Advertising
 
 Advertising keeps us and many of the websites and services you use free of charge. We work hard to make sure that ads are safe,
@@ -232,7 +231,7 @@ We use remarketing services. What Is Remarketing? In digital marketing, remarket
 across the internet to people who have already visited your website. It allows your company to seem like they're “following” people
 around the internet by serving ads on the websites and platforms they use most.
 
-## Kids' Privacy
+## Kids Privacy
 
 We collect information from kids under the age of 13 just to better our services. If You are a parent or guardian and You are aware
 that Your child has provided Us with Personal Data without your permission, please contact Us. If We become aware that We have
@@ -248,8 +247,7 @@ We may display, include or make available third-party content (including data, i
 or provide links to third-party websites or services ("Third- Party Services").
 
 AdMob: https://support.google.com/admob/answer/6128543?hl=en
-
-
+Google Play Services: https://policies.google.com/privacy
 
 You acknowledge and agree that we shall not be responsible for any Third-Party Services, including their accuracy, completeness,
 timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. We do not assume and shall not have
