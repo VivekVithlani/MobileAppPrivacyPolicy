@@ -147,7 +147,7 @@ to follow policies. Therefore, while we use reasonable efforts to protect your p
 security. If applicable law imposes any non-disclaimable duty to protect your personal information, you agree that intentional
 misconduct will be the standards used to measure our compliance with that duty.
 
-Can I| update or correct my information?
+## Can I| update or correct my information?
 
 The rights you have to request updates or corrections to the information we collect depend on your relationship with us. Personnel
 may update or correct their information as detailed in our internal company employment policies. Customers have the right to request
@@ -166,28 +166,28 @@ other readily searchable media will be updated, corrected, changed or deleted, a
 reasonably and technically practicable. If you are an end user and wish to update, delete, or receive any information we have about
 you, you may do so by contacting the organization of which you are a customer.
 
-Sale of Business
+## Sale of Business
 
 We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of
 the assets of us or any of its Corporate Affliates (as defined herein), or that portion of us or any of its Corporate Affiliates to which the
 Service relates, or in the event that we discontinue our business or file a petition or have filed against us a petition in bankruptcy,
 reorganization or similar proceeding, provided that the third party agrees to adhere to the terms of this Privacy Policy.
 
-##Affiliates
+## Affiliates
 
 We may disclose information (including personal information) about you to our Corporate Affiliates. For purposes of this Privacy
 Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common
 control with us, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affliates will be
 treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
 
-##How Long Do We Keep Your Information?
+## How Long Do We Keep Your Information?
 
 We keep your information only so long as we need it to provide service to you and fulfil the purposes described in this policy. This is
 also the case for anyone that we share your information with and who carries out services on our behalf. When we no longer need to
 use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we'll either remove it
 from our systems or depersonalize it so that we can't identify you.
 
-##How Do We Protect Your Information?
+## How Do We Protect Your Information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter,
 submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is
@@ -198,16 +198,16 @@ however, ensure or warrant the absolute security of any information you transmit
 Service may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, technical, or managerial
 safeguards.
 
-##Governing Law
+## Governing Law
 
 The laws of India, excluding its conflicts of law rules, shall govern this Agreement and your use of our service. Your use of our service
 may also be subject to other local, state, national, or international laws.
 
-##Your Consent
+## Your Consent
 
 By using our service, registering an account, or making a purchase, you consent to this Privacy Policy.
 
-##Links to Other Websites
+## Links to Other Websites
 
 This Privacy Policy applies only to the Services. The Services may contain links to other websites not operated or controlled by
 Mantra. We are not responsible for the content, accuracy or opinions expressed in such websites, and such websites are not
@@ -216,36 +216,40 @@ Services to another website, our Privacy Policy is no longer in effect. Your bro
 those that have a link on our platform, is subject to that website's own rules and policies. Such third parties may use their own
 cookies or other methods to collect information about you.
 
-##Advertising
+## Advertising
 
 Advertising keeps us and many of the websites and services you use free of charge. We work hard to make sure that ads are safe,
 unobtrusive, and as relevant as possible, We are using google ads in this application.
 
-##Cookies for Advertising
+## Cookies for Advertising
 
 Cookies help to make advertising more effective. Without cookies, it's really hard for an advertiser to reach its audience, or to know
 how many ads were shown and how many clicks they received.
 
-##Remarketing Services
+## Remarketing Services
 
 We use remarketing services. What Is Remarketing? In digital marketing, remarketing (or retargeting) is the practice of serving ads
 across the internet to people who have already visited your website. It allows your company to seem like they're “following” people
 around the internet by serving ads on the websites and platforms they use most.
 
-##Kids' Privacy
+## Kids' Privacy
 
 We collect information from kids under the age of 13 just to better our services. If You are a parent or guardian and You are aware
 that Your child has provided Us with Personal Data without your permission, please contact Us. If We become aware that We have
 collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that
 information from our servers.
 
-##Changes To Our Privacy Policy
+## Changes To Our Privacy Policy
 It we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date
 below.
 
-##Third-Party Services
+## Third-Party Services
 We may display, include or make available third-party content (including data, information, applications and other products services)
 or provide links to third-party websites or services ("Third- Party Services").
+
+AdMob: https://support.google.com/admob/answer/6128543?hl=en
+
+
 
 You acknowledge and agree that we shall not be responsible for any Third-Party Services, including their accuracy, completeness,
 timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. We do not assume and shall not have
@@ -254,7 +258,7 @@ any liability or responsibility to you or any other person or entity for any Thi
 Third-Party Services and links thereto are provided solely as a convenience to you and you access and use them entirely at your own
 risk and subject to such third parties' terms and conditions.
 
-##Facebook Pixel
+## Facebook Pixel
 Facebook pixel is an analytics tool that allows you to measure the effectiveness of your advertising by understanding the actions
 people take on your website. You can use the pixel to: Make sure your ads are shown to the right people. Facebook pixel may collect
 information from your device when you use the service. Facebook pixel collects information that is held in accordance with its Privacy
