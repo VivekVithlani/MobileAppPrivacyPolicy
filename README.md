@@ -1,0 +1,2 @@
+# MobileAppPrivacyPolicy
+MobileAppPrivacyPolicy
