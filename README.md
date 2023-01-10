@@ -85,14 +85,14 @@ support needs)
 
 + To send periodic emails
 
-### When do we use customer information from third parties?
+## When do we use customer information from third parties?
 
 We receive some information from the third parties when you contact us. For example, when you submit your email address to us to
 show interest in becoming our customer, we receive information from a third party that provides automated fraud detection services to
 us. We also occasionally collect information that is made publicly available on social media websites. You can control how much of
 your information social media websites make public by visiting these websites and changing your privacy settings.
 
-### Do we share the information we collect with third parties?
+## Do we share the information we collect with third parties?
 
 We may share the information that we collect, both personal and non-personal, with third parties such as advertisers, contest
 sponsors, promotional and marketing partners, and others who provide our content or whose products or services we think may
